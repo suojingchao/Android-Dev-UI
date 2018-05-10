@@ -1,5 +1,5 @@
 # Android-Dev-UI
-Android开发必知必会之UI技能篇
+Android开发必知必会之UI技能篇（持续更新）
 
 ## SimpleViewPager
 简单实现一个ViewPager基本功能，基本要点：
